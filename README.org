@@ -1,0 +1,2 @@
+* About
+Lightweight, optimized queue implementation for ChezScheme, modified from [[https://github.com/ShredderMing/cl-speedy-queue][cl-speedy-queue]] 
